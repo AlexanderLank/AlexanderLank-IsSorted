@@ -20,6 +20,6 @@ public class IsSorted {
         }
         
 
-        return true;
+        return true; 
     }
 }
